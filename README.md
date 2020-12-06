@@ -1,3 +1,6 @@
 # burpsuite-pro-installation-win10
 
-open notepad save as.bat 
+1. open notepad saveas file.bat 
+2. run 
+
+
